@@ -1,0 +1,6 @@
+/*.suo
+/RESTfulAPIConsume/bin
+/RESTfulAPIConsume/obj
+/packages
+/.vs/RESTfulAPIConsume/v15/*.suo
+/.vs
